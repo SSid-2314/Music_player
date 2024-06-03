@@ -25,31 +25,31 @@ const songs = [
         cover: 'assets/gradient 2.jpg',
         artist: 'Md. Rafi',
     },
-    {
-        path: 'assets/heroine.mp3',
-        displayName: 'Heroine ',
-        cover: 'assets/gradient 3.jpg',
-        artist: 'Bhojpuri',
-    },
-    {
-        path: 'assets/mix.mp3',
-        displayName: 'Remix ',
-        cover: 'assets/gradient 5.webp',
-        artist: 'NONE',
-    },
-    {
-        path: 'assets/tu_jo_mila.mp3',
-        displayName: 'Tu Jo Mila ',
-        cover: 'assets/gradient 1.jpg',
-        artist: 'Arjit Singh',
-    },
-    {
-        path: 'assets/Mahabharat Title Song  Compiled Instrumental & Lyrical Versions.mp3',
-        displayName: 'Mahabharat Title Song ',
-        cover: 'assets/gradient 6.jpg',
-        artist: 'Actor of Mahabharat',
-    },
-];
+//     {
+//         path: 'assets/heroine.mp3',
+//         displayName: 'Heroine ',
+//         cover: 'assets/gradient 3.jpg',
+//         artist: 'Bhojpuri',
+//     },
+//     {
+//         path: 'assets/mix.mp3',
+//         displayName: 'Remix ',
+//         cover: 'assets/gradient 5.webp',
+//         artist: 'NONE',
+//     },
+//     {
+//         path: 'assets/tu_jo_mila.mp3',
+//         displayName: 'Tu Jo Mila ',
+//         cover: 'assets/gradient 1.jpg',
+//         artist: 'Arjit Singh',
+//     },
+//     {
+//         path: 'assets/Mahabharat Title Song  Compiled Instrumental & Lyrical Versions.mp3',
+//         displayName: 'Mahabharat Title Song ',
+//         cover: 'assets/gradient 6.jpg',
+//         artist: 'Actor of Mahabharat',
+//     },
+// ];
 
 let musicIndex = 0;
 let isPlaying = false;
